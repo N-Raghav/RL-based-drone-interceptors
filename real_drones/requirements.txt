@@ -1,0 +1,5 @@
+# run_defender.py + policy_runtime.py (no Isaac, no skrl). torch: the CPU build is enough.
+torch>=2.0
+numpy
+pyyaml
+scipy  # Hungarian solver for the 3x5 slot assignment
