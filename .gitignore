@@ -92,3 +92,7 @@ _to_delete/
 # local Python venv (do not commit)
 .venv/
 **/.venv/
+
+# our result videos are part of the repo
+!reports/videos/
+!reports/videos/*
