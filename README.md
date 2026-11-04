@@ -1,4 +1,4 @@
-# Team 8: Drone Defenders
+# RL based Drone Interceptors
 
 Three DJI Tello drones guard a spot in a room against two attacking drones.
 A planner decides which defender covers which attacker, and a small trained neural
